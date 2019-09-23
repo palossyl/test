@@ -14,5 +14,6 @@ public class App
         System.out.println( "Hello Oszi!" );
         System.out.println( "Hello Kató!" );
         System.out.println( "Szia Szergej!" );
+        System.out.println( "Szia Vologya!" );
     }
 }
