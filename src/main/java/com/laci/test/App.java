@@ -13,5 +13,6 @@ public class App
         System.out.println( "Hello Pist!" );
         System.out.println( "Hello Oszi!" );
         System.out.println( "Hello Kató!" );
+        System.out.println( "Szia Szergej!" );
     }
 }
