@@ -9,7 +9,7 @@ public class App
     public static void main( String[] args )
     {
         System.out.println( "Hello tengerész!" );
-        System.out.println( "Hello hangyász!" ); // feature cápi
+        System.out.println( "Hello hangyász!" );
         System.out.println( "Hello Pist!" );
         System.out.println( "Hello Oszi!" );
         System.out.println( "Hello Kató!" );
@@ -18,4 +18,6 @@ public class App
         //ponty
         //keszeg
     }
+    
+    //kkkkk
 }
